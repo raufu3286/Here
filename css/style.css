@@ -49,3 +49,6 @@ ul li:last-child:hover {
     width: 10%;
 
 }
+ol li{
+    list-style: none;
+}
