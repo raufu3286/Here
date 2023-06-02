@@ -33,3 +33,11 @@ ul ;i:last-child:hover {
 
 
 }
+.myButton a{
+    color: white;
+    text-decoration: none;
+
+}
+.myButton:hover a{
+    color: #00afaa !important;
+}
