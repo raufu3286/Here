@@ -13,10 +13,10 @@ ul li:last-child a{
     color:white !important;
 
 }
-ul ;i:last-child:hover a{
+ul li:last-child:hover a{
     color: #00afaa !important;
 }
-ul ;i:last-child:hover {
+ul li:last-child:hover {
     background-color: transparent;
     border: 1px solid #00afaa;
 }
@@ -43,4 +43,9 @@ ul ;i:last-child:hover {
 }
 #banner-2{
     background-color:#bececd ;
+}
+.card .arrow {
+    height: 20%;
+    width: 10%;
+
 }
